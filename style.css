@@ -33,3 +33,10 @@
 	width:230px;
 }
 
+.btn-primary {
+	background-color:red;
+	border:none;
+}
+.btn-primary:hover {
+	background-color:#b20000;
+}
