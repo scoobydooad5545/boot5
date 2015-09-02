@@ -1,0 +1,35 @@
+/*Helper Classes*/
+.dark-grey {background-color:#696969;}
+.h900 {height:900px;}
+.light-grey {background-color:#d3d3d3;}
+.med-grey {background-color:#a9a9a9;}
+.dark-grey {background-color:#696969;}
+.red {background-color:red;}
+.white {background-color:white;}
+.t-white {color:white;}
+.h100 {height:100px;}
+.h200 {height:200px;}
+.h300 {height:300px;}
+.h400 {height:400px;}
+.h500 {height:500px;}
+.h600 {height:600px;}
+.h900 {height:900px;}
+.mt45 {margin-top:45px;}
+.ml50 {margin-left:50px;}
+.0pad {padding-top:-15px;}
+.ml15 {margin-left:15px;}
+.mr15 {margin-right:15px;}
+.mt30 {margin-top:30px;}
+.ml30 {margin-left:30px;}
+.mr30 {margin-right:30px;}
+.mtneg {margin-top:-50px;}
+.br5 {border-radius:5px;}
+.w280 {width:250px;}
+
+.btn-block {
+	width:100%;
+}
+.thumbnail {
+	width:230px;
+}
+
